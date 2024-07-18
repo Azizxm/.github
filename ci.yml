@@ -22,7 +22,7 @@ jobs:
 
     - name: Run pylint
       run: |
-        pylint your_code_directory/*.py
+        pylint C:\Users\aziza\Downloads\traceability_testing (1).zip\traceability_testing/*.py
 
     - name: Run tests
       run: |
